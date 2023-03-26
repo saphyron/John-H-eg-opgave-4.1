@@ -17,9 +17,7 @@ namespace John_Høeg_opgave_4._1.Controllers
             TextWriter tsw = new StreamWriter(@"C:\Users\Saphy\OneDrive\Softwareudvikling\SystemIntegration\John Høeg opgave 4.1\path.json", true);
             foreach (var line in lines)
             {
-                System.Console.WriteLine(line);
                 var code = line.Substring(0, 3);
-                System.Console.WriteLine($"Code: {code}");
                 switch (code)
                 {
                     case "001":
