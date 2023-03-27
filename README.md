@@ -42,8 +42,8 @@ Now the assignment had questions associated to it.
 
 Is there any patterns, that I have read about that could be taking into use in my solution:
 
-    a) I honestly forgot about any patterns in the book when I created this solution, which is most likely why I had so much trouble and spending such a undgodly amount of time on it. Total time spent over the last 6 days is roughly 42 hours.
+a) I honestly forgot about any patterns in the book when I created this solution, which is most likely why I had so much trouble and spending such a undgodly amount of time on it. Total time spent over the last 6 days is roughly 42 hours.
     
 Is there any pros and cons for using textfiles for integration.
 
-  a) Apart from having the file getting moved to server and converted to a new format, not much. It was a pain in the buttocks finding out how to convert it to JSON, but after that there is more manual work than automated work. With the backend (on my machine) setup right its quite simple.
+a) Apart from having the file getting moved to server and converted to a new format, not much. It was a pain in the buttocks finding out how to convert it to JSON, but after that there is more manual work than automated work. With the backend (on my machine) setup right its quite simple.
