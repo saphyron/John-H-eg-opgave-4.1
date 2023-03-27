@@ -1,0 +1,3557 @@
+[
+  {
+    "type": "005",
+    "kommuneCode": "0101",
+    "roadCode": "0142",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Vejnavn uden vejmidte og adresse.       ",
+    "timestamp": "201611180852",
+    "startDate": "201611180000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0153",
+    "roadCode": "0245",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "KUN ULIGE HUSNR.LIGE HUSNR ER R\uFFFDDOVRE KM",
+    "timestamp": "199506221640",
+    "startDate": "199506220000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0153",
+    "roadCode": "0556",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "HUSNR. 526 H\uFFFDRER TIL GLOSTRUP KOMMUNE   ",
+    "timestamp": "199506221123",
+    "startDate": "199506220000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0153",
+    "roadCode": "0692",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "BR\uFFFDNDBY HAR INGEN HUSNR. P\uFFFD VEJEN       ",
+    "timestamp": "199506261303",
+    "startDate": "199506260000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0159",
+    "roadCode": "0178",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Forbindelsesvej Vadstrupvej til Ring 3  ",
+    "timestamp": "201011161309",
+    "startDate": "201011160000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0161",
+    "roadCode": "0198",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Heggelunds Alle 4 \uFFFDnd til H\uFFFDjvangsvej 71",
+    "timestamp": "200509081437",
+    "startDate": "200509010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0161",
+    "roadCode": "0243",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "H\uFFFDjvangsvej 71 fra Heggelunds Alle 4    ",
+    "timestamp": "200509081439",
+    "startDate": "200509010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0173",
+    "roadCode": "0021",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "DTU - ingen tilmelding                  ",
+    "timestamp": "200003131043",
+    "startDate": "200003130000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0173",
+    "roadCode": "0034",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "DTU - ingen tilmelding                  ",
+    "timestamp": "200003131047",
+    "startDate": "200003130000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0173",
+    "roadCode": "0096",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "DTU - ingen tilmelding                  ",
+    "timestamp": "200003101446",
+    "startDate": "200003100000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0173",
+    "roadCode": "0115",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "DTU - ingen tilmelding                  ",
+    "timestamp": "200003131037",
+    "startDate": "200003130000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0173",
+    "roadCode": "0169",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "DTU - ingen tilmelding                  ",
+    "timestamp": "200003131044",
+    "startDate": "200003130000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0173",
+    "roadCode": "0196",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "DTU - ingen tilmelding                  ",
+    "timestamp": "200003131044",
+    "startDate": "200003130000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0173",
+    "roadCode": "0263",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "DTU - ingen tilmelding                  ",
+    "timestamp": "200003241019",
+    "startDate": "200003240000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0173",
+    "roadCode": "0421",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "DTU - ingen tilmelding                  ",
+    "timestamp": "200003131042",
+    "startDate": "200003130000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0173",
+    "roadCode": "0448",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "DTU - ingen tilmelding                  ",
+    "timestamp": "200003131046",
+    "startDate": "200003130000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0173",
+    "roadCode": "0454",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "DTU - ingen tilmelding                  ",
+    "timestamp": "200003131040",
+    "startDate": "200003130000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0173",
+    "roadCode": "0573",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "DTU - ingen tilmelding                  ",
+    "timestamp": "200003131042",
+    "startDate": "200003130000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0173",
+    "roadCode": "0577",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "DTU - ingen tilmelding                  ",
+    "timestamp": "200003131039",
+    "startDate": "200003130000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0173",
+    "roadCode": "0607",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "DTU - ingen tilmelding                  ",
+    "timestamp": "200003131047",
+    "startDate": "200003130000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0173",
+    "roadCode": "0610",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "DTU - ingen tilmelding                  ",
+    "timestamp": "200003241019",
+    "startDate": "200003240000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0173",
+    "roadCode": "0670",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "DTU - ingen tilmelding                  ",
+    "timestamp": "200003131045",
+    "startDate": "200003130000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0173",
+    "roadCode": "0679",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "DTU - ingen tilmelding                  ",
+    "timestamp": "200003131043",
+    "startDate": "200003130000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0173",
+    "roadCode": "0779",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "DTU - ingen tilmelding                  ",
+    "timestamp": "200003131039",
+    "startDate": "200003130000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0173",
+    "roadCode": "0790",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "DTU - ingen tilmelding                  ",
+    "timestamp": "200003131040",
+    "startDate": "200003130000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0173",
+    "roadCode": "1601",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "DTU - ingen tilmelding                  ",
+    "timestamp": "200003131044",
+    "startDate": "200003130000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0173",
+    "roadCode": "3102",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "DTU - ingen tilmelding                  ",
+    "timestamp": "200003131046",
+    "startDate": "200003130000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0173",
+    "roadCode": "4001",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "DTU - ingen tilmelding                  ",
+    "timestamp": "200003131040",
+    "startDate": "200003130000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0173",
+    "roadCode": "5201",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "DTU - ingen tilmelding                  ",
+    "timestamp": "200003131048",
+    "startDate": "200003130000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0173",
+    "roadCode": "6901",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "DTU - ingen tilmelding                  ",
+    "timestamp": "200003131045",
+    "startDate": "200003130000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0173",
+    "roadCode": "7601",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "DTU - ingen tilmelding                  ",
+    "timestamp": "200003131043",
+    "startDate": "200003130000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0185",
+    "roadCode": "1350",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Sommerhus 2-4                           ",
+    "timestamp": "201603081334",
+    "startDate": "201603080000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0201",
+    "roadCode": "0365",
+    "populationRegisterNote": "05",
+    "populationRegisterLine": "bakkedraget 7 \uFFFDndret til M\uFFFDllestien 1   ",
+    "timestamp": "200512141011",
+    "startDate": "200512080000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0201",
+    "roadCode": "0710",
+    "populationRegisterNote": "05",
+    "populationRegisterLine": "udstykket fra Engsvinget 10             ",
+    "timestamp": "200512141037",
+    "startDate": "200512140000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0201",
+    "roadCode": "1570",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "tidl Kongevejen 103-105                 ",
+    "timestamp": "200310160829",
+    "startDate": "200310160000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0201",
+    "roadCode": "2360",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "39A en bolig, 39B-E 12 boliger          ",
+    "timestamp": "199901271316",
+    "startDate": "199901250000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0201",
+    "roadCode": "2360",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Gl Lyngevej 39 omdannet til bof\uFFFDllesskab",
+    "timestamp": "199901271316",
+    "startDate": "199901250000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0201",
+    "roadCode": "2735",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Hammersholt Byvej 65, \uFFFDndret til        ",
+    "timestamp": "200408060950",
+    "startDate": "200408050000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0201",
+    "roadCode": "2735",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "Akacievej 14                            ",
+    "timestamp": "200408060950",
+    "startDate": "200408050000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0201",
+    "roadCode": "3056",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "vej 1. Hiller\uFFFDdvej 47B \uFFFDndret til Uvelse",
+    "timestamp": "200601171424",
+    "startDate": "200601170000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0201",
+    "roadCode": "3056",
+    "populationRegisterNote": "03",
+    "populationRegisterLine": "vej 1.                                  ",
+    "timestamp": "200601171424",
+    "startDate": "200601170000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0201",
+    "roadCode": "3056",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Hiller\uFFFDdvej 47A \uFFFDndret til Lynge M\uFFFDlle- ",
+    "timestamp": "200601171424",
+    "startDate": "200601170000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0201",
+    "roadCode": "5813",
+    "populationRegisterNote": "05",
+    "populationRegisterLine": "Bakkedraget 7 \uFFFDndret til M\uFFFDllestien 1   ",
+    "timestamp": "200512141010",
+    "startDate": "200512080000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0023",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "HUSNR.32A - DYSSEG\uFFFDRDENS PLEJEHJEM      ",
+    "timestamp": "200612221200",
+    "startDate": "199603060000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0023",
+    "populationRegisterNote": "03",
+    "populationRegisterLine": "HUSNR.48 - KARLEBO SKOLE                ",
+    "timestamp": "200612221200",
+    "startDate": "199603060000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0023",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "HUSNR.52A - B\uFFFDRNEINSTITUTION            ",
+    "timestamp": "200612221200",
+    "startDate": "199603060000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0059",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "ALLE HUSNUMRE ER EJERLEJLIGHEDER        ",
+    "timestamp": "200612221200",
+    "startDate": "199603060000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0071",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "Broengen 2 b - REGNBUEN -               ",
+    "timestamp": "200612221200",
+    "startDate": "200012200000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0071",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "HUSNUMRENE OMFATTER B\uFFFDRNEINSTITUTIONER  ",
+    "timestamp": "200612221200",
+    "startDate": "199603080000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0082",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "HUSNR.42 - B\uFFFDRNEINSTITUTION             ",
+    "timestamp": "200612221200",
+    "startDate": "199603070000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0082",
+    "populationRegisterNote": "03",
+    "populationRegisterLine": "HUSNR.46 - PLEJEHJEM                    ",
+    "timestamp": "200612221200",
+    "startDate": "199603070000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0082",
+    "populationRegisterNote": "04",
+    "populationRegisterLine": "Husnr.46 (plejehjemmet) er \uFFFDndret til   ",
+    "timestamp": "200612221200",
+    "startDate": "200511010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0082",
+    "populationRegisterNote": "05",
+    "populationRegisterLine": "M\uFFFDlledammen 2, 2980 Kokkedal            ",
+    "timestamp": "200612221200",
+    "startDate": "200511010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0083",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "HUSNR.2-6 - B\uFFFDGEG\uFFFDRDEN -B\uFFFDRNEINSTITUTION",
+    "timestamp": "200612221200",
+    "startDate": "199603110000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0085",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "HUSNR.19 - D\uFFFDGNINSTITUTION              ",
+    "timestamp": "200612221200",
+    "startDate": "199603070000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0085",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "HUSNR.2A-16B - BESKYTTEDE BOLIGER       ",
+    "timestamp": "200612221200",
+    "startDate": "199603070000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0091",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "HUSNR.235E - MATRIELG\uFFFDRD M.V            ",
+    "timestamp": "200612221200",
+    "startDate": "199603110000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0095",
+    "populationRegisterNote": "05",
+    "populationRegisterLine": "Nr. 50 - 72 er almindelige boliger (de  ",
+    "timestamp": "200803061358",
+    "startDate": "200803060000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0095",
+    "populationRegisterNote": "07",
+    "populationRegisterLine": "Nr. 14 er det tidligere Jobhus          ",
+    "timestamp": "200803061358",
+    "startDate": "200803060000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0095",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Nr. 1 - 15 er \uFFFDldreboliger              ",
+    "timestamp": "200803061358",
+    "startDate": "200803060000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0095",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "Nr. 8 med bogstaver er en slags         ",
+    "timestamp": "200803061358",
+    "startDate": "200803060000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0095",
+    "populationRegisterNote": "03",
+    "populationRegisterLine": "beskyttede boliger ( de h\uFFFDrer under     ",
+    "timestamp": "200803061358",
+    "startDate": "200803060000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0095",
+    "populationRegisterNote": "04",
+    "populationRegisterLine": "Mergeltoften)                           ",
+    "timestamp": "200803061358",
+    "startDate": "200803060000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0095",
+    "populationRegisterNote": "06",
+    "populationRegisterLine": "h\uFFFDrer til Marieh\uFFFDj)                     ",
+    "timestamp": "200803061358",
+    "startDate": "200803060000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0107",
+    "populationRegisterNote": "03",
+    "populationRegisterLine": "Husnr. 24 - McDonalds Restaurant        ",
+    "timestamp": "200612221200",
+    "startDate": "200010180000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0107",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "HUSNR.18 - IDR\uFFFDTSHAL                    ",
+    "timestamp": "200612221200",
+    "startDate": "199603080000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0107",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "HUSNR.2-16 - CIRKELHUSET                ",
+    "timestamp": "200612221200",
+    "startDate": "199603080000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0117",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "HUSNR.2-44 - ANDELSBOLIGER              ",
+    "timestamp": "200612221200",
+    "startDate": "199603110000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0136",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "HUSNR.106-107 - SUPERMARKED -           ",
+    "timestamp": "200612221200",
+    "startDate": "199603120000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0150",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "HUSNR.1 - B\uFFFDRNEINSTITUTION -            ",
+    "timestamp": "200612221200",
+    "startDate": "199603120000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0150",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "HUSNR.2 - EGEDAL -                      ",
+    "timestamp": "200612221200",
+    "startDate": "199603120000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0150",
+    "populationRegisterNote": "03",
+    "populationRegisterLine": "HUSNR.3 - KIRKE -                       ",
+    "timestamp": "200612221200",
+    "startDate": "199603120000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0158",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "HUSNR.1-4 - ERHVERVSBYGNINGER -         ",
+    "timestamp": "200612221200",
+    "startDate": "199603120000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0158",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "HUSNR.3 B - KARLEBO R\uFFFDDHUS              ",
+    "timestamp": "200612221200",
+    "startDate": "199702030000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0184",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "har \uFFFDndret navn til nedenst\uFFFDende        ",
+    "timestamp": "200612221200",
+    "startDate": "199808060000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0184",
+    "populationRegisterNote": "03",
+    "populationRegisterLine": "FASANEN-Fasanv\uFFFDnget 602-2980 Kokkedal   ",
+    "timestamp": "200612221200",
+    "startDate": "199808060000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0184",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Daginstitutionen Fasanv\uFFFDnget 602        ",
+    "timestamp": "200612221200",
+    "startDate": "199808060000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0205",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "HUSNR.1 - DRONNING LOUISES KRO -        ",
+    "timestamp": "200612221200",
+    "startDate": "199610170000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0205",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "HUSNR.1,SIDEBYGNINGEN 1.SAL - BEBOELSE -",
+    "timestamp": "200612221200",
+    "startDate": "199610170000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0255",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Der er ingen husnumre p\uFFFD Helsing\uFFFDr      ",
+    "timestamp": "200612221200",
+    "startDate": "200605170000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0255",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "Motorvejen - men husnumre fiktivt indsat",
+    "timestamp": "200612221200",
+    "startDate": "200605170000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0255",
+    "populationRegisterNote": "03",
+    "populationRegisterLine": "i.f.m.kommunesammenl\uFFFDgning (kr\uFFFDves).    ",
+    "timestamp": "200612221200",
+    "startDate": "200605170000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0261",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "HUSNR.1 - KULO FINANS APS -             ",
+    "timestamp": "200612221200",
+    "startDate": "199610110000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0261",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "HUSNR.3 - KARLEBO RENSEANL\uFFFDG -          ",
+    "timestamp": "200612221200",
+    "startDate": "199603130000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0273",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "Holmeg\uFFFDrdsvej 1, 2980 Kokkedal (lukket) ",
+    "timestamp": "200808181241",
+    "startDate": "199902240000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0273",
+    "populationRegisterNote": "03",
+    "populationRegisterLine": "Holmeg\uFFFDrdsvej 1A,1B og 1C er alle 3     ",
+    "timestamp": "200808181241",
+    "startDate": "200807160000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0273",
+    "populationRegisterNote": "05",
+    "populationRegisterLine": "Egeparken, 2980 Kokkedal                ",
+    "timestamp": "200808181241",
+    "startDate": "200807160000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0273",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "B\uFFFDRNEHUSET                              ",
+    "timestamp": "200612221200",
+    "startDate": "199902240000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0273",
+    "populationRegisterNote": "04",
+    "populationRegisterLine": "erhvervslejem\uFFFDl beliggende sammen med   ",
+    "timestamp": "200808181241",
+    "startDate": "200807160000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0283",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Husnr. 2 - 6 er Super Brugsen iflg. Finn",
+    "timestamp": "200901151101",
+    "startDate": "200901140000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0298",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "HUSNR.1 - Q8 BENZINTANK -               ",
+    "timestamp": "200612221200",
+    "startDate": "199603120000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0298",
+    "populationRegisterNote": "03",
+    "populationRegisterLine": "HUSNR.2-20 - NY CENTER -                ",
+    "timestamp": "200612221200",
+    "startDate": "199603120000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0298",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "HUSNR.3 - GL.CENTER -                   ",
+    "timestamp": "200612221200",
+    "startDate": "199603120000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0311",
+    "populationRegisterNote": "03",
+    "populationRegisterLine": "Integr.institution - L\uFFFDrkereden -       ",
+    "timestamp": "200612221200",
+    "startDate": "200106060000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0311",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "Islandsh\uFFFDjparken 55, 2990 Niv\uFFFD          ",
+    "timestamp": "200612221200",
+    "startDate": "199906080000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0311",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Institution - Skolen ved H\uFFFDjen -        ",
+    "timestamp": "200612221200",
+    "startDate": "199906080000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0321",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Nr.2 er en udstykning af L\uFFFDgegyde 15    ",
+    "timestamp": "200612221200",
+    "startDate": "200010190000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0330",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "Johannes Hages Alle 3, 2990 Niv\uFFFD        ",
+    "timestamp": "200612221200",
+    "startDate": "199908180000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0330",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Institution - Johannes Hages Hus -      ",
+    "timestamp": "200612221200",
+    "startDate": "199908180000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0343",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Karlebovej nr.10 - Karlebo Kro -        ",
+    "timestamp": "200612221200",
+    "startDate": "199704020000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0343",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "Karlebovej nr.59 - Pr\uFFFDvelyst Teglv\uFFFDrk - ",
+    "timestamp": "200612221200",
+    "startDate": "199909100000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0343",
+    "populationRegisterNote": "03",
+    "populationRegisterLine": "Karlebovej nr.22 - fremover 1-fam. hus -",
+    "timestamp": "200612221200",
+    "startDate": "200102230000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0371",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "BEBYGGELSEN ER ANDELSBOLIGER            ",
+    "timestamp": "200612221200",
+    "startDate": "199603130000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0408",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "VEJNAVNET \uFFFDNDRET FRA ISLANDSH\uFFFDJPARKEN   ",
+    "timestamp": "200612221200",
+    "startDate": "199508070000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0408",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "LANGELUNDEN ER ALLE EJERLEJLIGHEDER     ",
+    "timestamp": "200612221200",
+    "startDate": "199508070000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0441",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "HUSNR.1-5 - FUNKTION\uFFFDRBOLIGER -         ",
+    "timestamp": "200612221200",
+    "startDate": "199603130000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0441",
+    "populationRegisterNote": "03",
+    "populationRegisterLine": "HUSNR.2-6 - NIV\uFFFD UNGDOMSSKOLE OG BOLIGER",
+    "timestamp": "200612221200",
+    "startDate": "199603130000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0462",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Niv\uFFFD Golf Klub                          ",
+    "timestamp": "200612221200",
+    "startDate": "200005150000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0462",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "L\uFFFDvbjergg\uFFFDrdsvej 1, 2980 Kokkedal       ",
+    "timestamp": "200612221200",
+    "startDate": "200005150000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0466",
+    "populationRegisterNote": "03",
+    "populationRegisterLine": "Inst. - Sneglehuset -                   ",
+    "timestamp": "200612221200",
+    "startDate": "200106060000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0466",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "Marieh\uFFFDj 279, 2990 Niv\uFFFD                 ",
+    "timestamp": "200612221200",
+    "startDate": "199902240000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0466",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Legestue - B\uFFFDllehuset -                 ",
+    "timestamp": "200612221200",
+    "startDate": "199902240000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0468",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Husnr.161 - 224 er alle Garager         ",
+    "timestamp": "200806300836",
+    "startDate": "200806270000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0468",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "iflg. Finn Elton Nielsen 27/6 2008      ",
+    "timestamp": "200806300836",
+    "startDate": "200806270000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0469",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Mergeltoften 16 - 30 er \uFFFDldreboliger    ",
+    "timestamp": "200712041022",
+    "startDate": "200709120000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0472",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Nr. 1 best\uFFFDr af stuehus og gammel       ",
+    "timestamp": "200710170944",
+    "startDate": "200709290000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0472",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "grisestald - beboelse begge steder      ",
+    "timestamp": "200710170944",
+    "startDate": "200709290000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0481",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Husnr. 2 - Inst. Farverg\uFFFDrden           ",
+    "timestamp": "200612221200",
+    "startDate": "200511010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0481",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "Husnr. 4A til 18B - beskytt.boliger     ",
+    "timestamp": "200612221200",
+    "startDate": "200511010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0481",
+    "populationRegisterNote": "03",
+    "populationRegisterLine": "Husnr. 20 - Plejecenter Br\uFFFDnsholmdal    ",
+    "timestamp": "200612221200",
+    "startDate": "200511010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0481",
+    "populationRegisterNote": "04",
+    "populationRegisterLine": "Husnr.1 til 13 - Boligbebyggelsen       ",
+    "timestamp": "200612221200",
+    "startDate": "200511010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0481",
+    "populationRegisterNote": "05",
+    "populationRegisterLine": "M\uFFFDlledammen, 2980 Kokkedal              ",
+    "timestamp": "200612221200",
+    "startDate": "200511010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0501",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "Engvej 1, 2990 Niv\uFFFD                     ",
+    "timestamp": "200804040939",
+    "startDate": "200803170000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0501",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Niver\uFFFDd Kongevej 9, 2990 Niv\uFFFD \uFFFDndret til",
+    "timestamp": "200804040939",
+    "startDate": "200803170000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0504",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "Niver\uFFFDdg\uFFFDrdsvej 2, 2990 Niv\uFFFD            ",
+    "timestamp": "200612221200",
+    "startDate": "199902240000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0504",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "F.U.N.Fritids- og Ungdomsklubben i Niv\uFFFD ",
+    "timestamp": "200612221200",
+    "startDate": "199902240000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0505",
+    "populationRegisterNote": "03",
+    "populationRegisterLine": "F.U.N. Fritids- og Ungdomsklubben i Niv\uFFFD",
+    "timestamp": "200612221200",
+    "startDate": "199808310000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0505",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "har \uFFFDndret navn til nedenst\uFFFDende        ",
+    "timestamp": "200612221200",
+    "startDate": "199808310000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0505",
+    "populationRegisterNote": "04",
+    "populationRegisterLine": "Niver\uFFFDdvej 38, 2990 Niv\uFFFD                ",
+    "timestamp": "200612221200",
+    "startDate": "199808310000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0505",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Niv\uFFFD Fritidsklub,Niver\uFFFDdvej 38,2990 Niv\uFFFD",
+    "timestamp": "200612221200",
+    "startDate": "199808310000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0516",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "Nr. 55 er Niv\uFFFDh\uFFFDjskolen (tidl. Svanen)  ",
+    "timestamp": "200612221200",
+    "startDate": "200603240000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0516",
+    "populationRegisterNote": "03",
+    "populationRegisterLine": "Nr. 67 og 68 er f\uFFFDlleshus og vaskeri    ",
+    "timestamp": "200612221200",
+    "startDate": "200603240000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0516",
+    "populationRegisterNote": "04",
+    "populationRegisterLine": "Nr. 80 er Inst. L\uFFFDrkereden              ",
+    "timestamp": "200711141452",
+    "startDate": "200711140000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0516",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "VEJNAVN \uFFFDNDRET FRA ISLANDSH\uFFFDJPARKEN     ",
+    "timestamp": "200612221200",
+    "startDate": "199511270000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0518",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Niv\uFFFDvej 2 er en spejderhytte            ",
+    "timestamp": "200612221200",
+    "startDate": "199109230000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0522",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "NR.1 TIDL.ADRESSE GL.STRANDVEJ 19 A     ",
+    "timestamp": "200612221200",
+    "startDate": "199511270000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0522",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "NR.2 TIDL.ADRESSE GL.STRANDVEJ 78       ",
+    "timestamp": "200612221200",
+    "startDate": "199511270000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0522",
+    "populationRegisterNote": "03",
+    "populationRegisterLine": "NR.3 TIDL.ADRESSE GL.STRANDVEJ 19 B     ",
+    "timestamp": "200612221200",
+    "startDate": "199511270000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0522",
+    "populationRegisterNote": "04",
+    "populationRegisterLine": "NR.6 TIDL.ADRESSE GL.STRANDVEJ 90       ",
+    "timestamp": "200612221200",
+    "startDate": "199511270000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0522",
+    "populationRegisterNote": "05",
+    "populationRegisterLine": "NR.8 TIDL.ADRESSE GL.STRANDVEJ 96       ",
+    "timestamp": "200612221200",
+    "startDate": "199511270000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0633",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Smedebakkens B\uFFFDrnehus                   ",
+    "timestamp": "200612221200",
+    "startDate": "199905100000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0633",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "Smedebakken 11, 2990 Niv\uFFFD               ",
+    "timestamp": "200612221200",
+    "startDate": "199905100000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0670",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "nr. 9 B.st., og 9B.1. \uFFFDnret til 9 B     ",
+    "timestamp": "200805201213",
+    "startDate": "200709010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0691",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Strandvejen 381 er Rensningsanl\uFFFDg       ",
+    "timestamp": "200612221200",
+    "startDate": "200408040000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0706",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Tidligere S\uFFFDlyst Alle 6 er \uFFFDndret til   ",
+    "timestamp": "200612221200",
+    "startDate": "199711110000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0706",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "Skovparken 18, 2990 Niv\uFFFD                ",
+    "timestamp": "200612221200",
+    "startDate": "199711110000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0774",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Vejen er en stamvej                     ",
+    "timestamp": "200612221200",
+    "startDate": "200610090000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0852",
+    "populationRegisterNote": "05",
+    "populationRegisterLine": "samt i erhvervslejem\uFFFDlet                ",
+    "timestamp": "200612221200",
+    "startDate": "200010050000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0852",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "64 B (64 A er bolig, 64 B er erhverv)   ",
+    "timestamp": "200612221200",
+    "startDate": "200010190000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0852",
+    "populationRegisterNote": "10",
+    "populationRegisterLine": "50 B (b\uFFFDde 50A og 50B er beboelse)      ",
+    "timestamp": "200612221200",
+    "startDate": "200605220000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0852",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Vejenbr\uFFFDdvej 68 er \uFFFDndret til           ",
+    "timestamp": "200612221200",
+    "startDate": "200005170000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0852",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "L\uFFFDvbjergg\uFFFDrdsvej nr.1 - medd. 22/4 2000 ",
+    "timestamp": "200612221200",
+    "startDate": "200005170000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0852",
+    "populationRegisterNote": "03",
+    "populationRegisterLine": "Vejenbr\uFFFDdvej 74 er en 3 l\uFFFDnget g\uFFFDrd med ",
+    "timestamp": "200612221200",
+    "startDate": "200010050000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0852",
+    "populationRegisterNote": "07",
+    "populationRegisterLine": "Vejenbr\uFFFDdvej 64 er \uFFFDndret til 64 A og   ",
+    "timestamp": "200612221200",
+    "startDate": "200010190000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0852",
+    "populationRegisterNote": "09",
+    "populationRegisterLine": "Vejenbr\uFFFDdvej 50 er \uFFFDndret til 50 A og   ",
+    "timestamp": "200612221200",
+    "startDate": "200605220000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0852",
+    "populationRegisterNote": "11",
+    "populationRegisterLine": "Vejenbr\uFFFDdvej 71 - HNG m\uFFFDlerstation      ",
+    "timestamp": "200612221200",
+    "startDate": "200610160000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "0852",
+    "populationRegisterNote": "04",
+    "populationRegisterLine": "beboelse i stuehuset og l\uFFFDngen p\uFFFD 1.sal ",
+    "timestamp": "200612221200",
+    "startDate": "200010050000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0210",
+    "roadCode": "5939",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Nr. 2 er en institution                 ",
+    "timestamp": "200904161506",
+    "startDate": "200904010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0230",
+    "roadCode": "0369",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "\uFFFDben i perioden ca. 01.04.98-01.10.98   ",
+    "timestamp": "200612221200",
+    "startDate": "199804100000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0230",
+    "roadCode": "0369",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "N\uFFFDrum Campingplads, Langebjerg 5        ",
+    "timestamp": "200612221200",
+    "startDate": "199807100000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0240",
+    "roadCode": "0858",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "TIDLIGERE HED VEJEN STENMARKEN          ",
+    "timestamp": "200612221200",
+    "startDate": "199610010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0265",
+    "roadCode": "0464",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "nordg\uFFFDrdsvej 2 A er ny adr              ",
+    "timestamp": "200612221200",
+    "startDate": "199906240000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0265",
+    "roadCode": "0544",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Vejen har tidligere heddet Rytterbakken ",
+    "timestamp": "200612221200",
+    "startDate": "199802200000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0265",
+    "roadCode": "2807",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Postadr. Rugg\uFFFDrdsvej 25 - 4000 Roskilde ",
+    "timestamp": "200505310858",
+    "startDate": "200505310000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0270",
+    "roadCode": "0919",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "HUS.NR FRA 32-150,95-133 \uFFFDNDRET TIL     ",
+    "timestamp": "200612221200",
+    "startDate": "199601310000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0270",
+    "roadCode": "0919",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "NYGADE 119-237 OG 226-264 PR. 1.2.1996  ",
+    "timestamp": "200612221200",
+    "startDate": "199601310000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0270",
+    "roadCode": "1218",
+    "populationRegisterNote": "03",
+    "populationRegisterLine": "\uFFFDNDRET PR. 1.2.1996                     ",
+    "timestamp": "200612221200",
+    "startDate": "199601310000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0270",
+    "roadCode": "1218",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "HUS.NR. 119-237 OG 226-264 HAR TIDLIGERE",
+    "timestamp": "200612221200",
+    "startDate": "199601310000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0270",
+    "roadCode": "1218",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "H\uFFFDRT UNDER KGS.GAVEVEJ 32-150 OG 95-133 ",
+    "timestamp": "200612221200",
+    "startDate": "199601310000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0306",
+    "roadCode": "0053",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "byg nr 71og husnr 38                    ",
+    "timestamp": "201001201230",
+    "startDate": "199001010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0306",
+    "roadCode": "0053",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "annebergparken 39b er under 015826      ",
+    "timestamp": "200902051532",
+    "startDate": "199001010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0306",
+    "roadCode": "0311",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "kalundborgvej 8 i bbr                   ",
+    "timestamp": "200902051444",
+    "startDate": "199001010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0306",
+    "roadCode": "0311",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "b\uFFFDgebjergvej 2 a-k ligger under 0028863 ",
+    "timestamp": "200902051444",
+    "startDate": "199001010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0306",
+    "roadCode": "0701",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "f\uFFFDrevejle kirkevej 19-29 ligger under   ",
+    "timestamp": "200902251128",
+    "startDate": "199001010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0306",
+    "roadCode": "0701",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "f\uFFFDrevejle kirkevej 11 i bbr             ",
+    "timestamp": "200902251128",
+    "startDate": "199001010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0306",
+    "roadCode": "0865",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "H\uFFFDvevej 17 i BBR ejd nr 002687          ",
+    "timestamp": "200902051633",
+    "startDate": "200810100000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0306",
+    "roadCode": "0865",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Havevangen 2 - 16 og 1 - 31 se under    ",
+    "timestamp": "200810101239",
+    "startDate": "200810100000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0306",
+    "roadCode": "1156",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "husnr. 99 det er luftmeldet\uFFFDrnet        ",
+    "timestamp": "200612221200",
+    "startDate": "200011090000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0306",
+    "roadCode": "1156",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "vej uden husnr                          ",
+    "timestamp": "200612221200",
+    "startDate": "200004120000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0306",
+    "roadCode": "1661",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "hedder muslingen ingen                  ",
+    "timestamp": "200902051537",
+    "startDate": "199001010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0306",
+    "roadCode": "1661",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "n\uFFFDrregade 18 h\uFFFDrve er en bo             ",
+    "timestamp": "200902051537",
+    "startDate": "199001010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0306",
+    "roadCode": "1661",
+    "populationRegisterNote": "03",
+    "populationRegisterLine": "logiv\uFFFDrtserkl\uFFFDringer                    ",
+    "timestamp": "200902051537",
+    "startDate": "199001010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0306",
+    "roadCode": "1962",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "sandvej 1 ligger under 016198           ",
+    "timestamp": "200902051607",
+    "startDate": "199001010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0306",
+    "roadCode": "1962",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "r\uFFFDrvigvej 224                           ",
+    "timestamp": "200902051607",
+    "startDate": "199001010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0306",
+    "roadCode": "2571",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "vallekildevej 22 er en boinstitution    ",
+    "timestamp": "200902051536",
+    "startDate": "199001010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0306",
+    "roadCode": "2571",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "ingen logiv\uFFFDrtserkl\uFFFDringer              ",
+    "timestamp": "200902051536",
+    "startDate": "199001010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0306",
+    "roadCode": "9911",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "personer i f\uFFFDngsel eller andet opholdsst",
+    "timestamp": "201102031424",
+    "startDate": "201102030000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0320",
+    "roadCode": "9953",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "VEJ GENAKT VEJOPH\uFFFDR 9933 JGC IFL 351    ",
+    "timestamp": "200612221200",
+    "startDate": "200301280000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0326",
+    "roadCode": "0024",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "STI BELIGGENDE I V\uFFFDRSLEV                ",
+    "timestamp": "200612221200",
+    "startDate": "199509150000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0326",
+    "roadCode": "0041",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "STI BELIGGENDE I UBBY                   ",
+    "timestamp": "200612221200",
+    "startDate": "199509150000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0326",
+    "roadCode": "0202",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "STI BELIGGENDE I JERSLEV                ",
+    "timestamp": "200612221200",
+    "startDate": "199509150000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0326",
+    "roadCode": "0217",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "STI BELIGGENDE I R\uFFFDRBY                  ",
+    "timestamp": "200612221200",
+    "startDate": "199509150000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0326",
+    "roadCode": "0231",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "STI BELIGGENDE I UBBY                   ",
+    "timestamp": "200612221200",
+    "startDate": "199509150000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0326",
+    "roadCode": "0336",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "STI BELIGGENDE I UBBY                   ",
+    "timestamp": "200612221200",
+    "startDate": "199509150000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0326",
+    "roadCode": "0345",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "STI FRA HOVEDGADEN TIL ENGG\uFFFDRDSVEJ      ",
+    "timestamp": "200612221200",
+    "startDate": "199510270000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0326",
+    "roadCode": "0420",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "STI BELIGGENDE I FORSINGE               ",
+    "timestamp": "200612221200",
+    "startDate": "199509150000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0326",
+    "roadCode": "0424",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "ULIGE SIDE 10 NUMRE NED 11/1 13/3 OSV   ",
+    "timestamp": "200612221200",
+    "startDate": "199307010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0326",
+    "roadCode": "0572",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Slettet vej den 28.9.16 iflg plan,byg,mi",
+    "timestamp": "201609281000",
+    "startDate": "201609280000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0326",
+    "roadCode": "0581",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "STI BELIGGENDE I JERSLEV                ",
+    "timestamp": "200612221200",
+    "startDate": "199509150000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0326",
+    "roadCode": "0735",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Det er en sti i H\uFFFDrk\uFFFDrhaven, Ubby       ",
+    "timestamp": "200612221200",
+    "startDate": "199712170000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0326",
+    "roadCode": "0736",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "STI BELIGGENDE I UBBY                   ",
+    "timestamp": "200612221200",
+    "startDate": "199509150000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0326",
+    "roadCode": "0779",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "STI BELIGGENDE I JERSLEV                ",
+    "timestamp": "200612221200",
+    "startDate": "199509150000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0326",
+    "roadCode": "0784",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "TIDL. JORL\uFFFDSEVEJ 28-90 OG 41-101        ",
+    "timestamp": "200612221200",
+    "startDate": "199307010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0326",
+    "roadCode": "0828",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "STI BELIGGENDE VED KATHOLM/YPPENBJERG   ",
+    "timestamp": "200612221200",
+    "startDate": "199509150000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0326",
+    "roadCode": "0840",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "TIDL. KELLEKLINTEVEJ 3, 3A OG 3B        ",
+    "timestamp": "200612221200",
+    "startDate": "199307010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0326",
+    "roadCode": "0841",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "TIDL. RISH\uFFFDJVEJ 1-39, 2-10              ",
+    "timestamp": "200612221200",
+    "startDate": "199307010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0326",
+    "roadCode": "0887",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "TIDL. KLOVBYVEJ 8-54, 9-41              ",
+    "timestamp": "200612221200",
+    "startDate": "199307010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0326",
+    "roadCode": "0888",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "TIDL. KIRKEBAKKEN 1-9,                  ",
+    "timestamp": "200612221200",
+    "startDate": "199307010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0326",
+    "roadCode": "0888",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "TIDL. KLOVBYVEJ 43-47, 56-64            ",
+    "timestamp": "200612221200",
+    "startDate": "199307010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0326",
+    "roadCode": "1131",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "STI BELIGGENDE I UBBY                   ",
+    "timestamp": "200612221200",
+    "startDate": "199509150000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0326",
+    "roadCode": "1134",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "TIDL. TISS\uFFFDVEJ 20                       ",
+    "timestamp": "200612221200",
+    "startDate": "199307010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0326",
+    "roadCode": "1223",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "TIDL. FRANKERUPVEJ 1 - 9                ",
+    "timestamp": "200612221200",
+    "startDate": "199307010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0326",
+    "roadCode": "1224",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "TIDL. KROGVEJ (SAMME NUMRE)             ",
+    "timestamp": "200612221200",
+    "startDate": "199307010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0326",
+    "roadCode": "1309",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Det er en sti ved Pilevej/Birkevej      ",
+    "timestamp": "200612221200",
+    "startDate": "199710220000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0326",
+    "roadCode": "1311",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "STI BELIGGENDE I FLINTERUP              ",
+    "timestamp": "200612221200",
+    "startDate": "199509150000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0326",
+    "roadCode": "1338",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "STI BELIGGENDE I JORL\uFFFDSE                ",
+    "timestamp": "200612221200",
+    "startDate": "199509150000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0326",
+    "roadCode": "1429",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "STI BELIGGENDE I R\uFFFDRBY                  ",
+    "timestamp": "200612221200",
+    "startDate": "199509150000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0326",
+    "roadCode": "1443",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "STI BELIGGENDE I UBBY                   ",
+    "timestamp": "200612221200",
+    "startDate": "199509150000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0326",
+    "roadCode": "1453",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "TIDL. RISH\uFFFDJVEJ 12-16, 41-53            ",
+    "timestamp": "200612221200",
+    "startDate": "199307010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0326",
+    "roadCode": "1504",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "STI BELIGGENDE I UBBY                   ",
+    "timestamp": "200612221200",
+    "startDate": "199509150000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0326",
+    "roadCode": "1509",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "STI BELIGGENDE I JERSLEV                ",
+    "timestamp": "200612221200",
+    "startDate": "199509150000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0326",
+    "roadCode": "1524",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "STI FRA V\uFFFDRSLEVSTIEN TIL KROGEN         ",
+    "timestamp": "200612221200",
+    "startDate": "199510270000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0326",
+    "roadCode": "1752",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "STI BELIGGENDE I UBBY                   ",
+    "timestamp": "200612221200",
+    "startDate": "199509150000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0326",
+    "roadCode": "1835",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "STI BELIGGENDE I UBBY                   ",
+    "timestamp": "200612221200",
+    "startDate": "199509150000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0326",
+    "roadCode": "1864",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "STI BELIGGENDE I JERSLEV                ",
+    "timestamp": "200612221200",
+    "startDate": "199509150000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0326",
+    "roadCode": "2039",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "TIDL. V\uFFFDRSLEV (SAMME NUMRE)             ",
+    "timestamp": "200612221200",
+    "startDate": "199307010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0326",
+    "roadCode": "2042",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "DET ER EN STI                           ",
+    "timestamp": "200612221200",
+    "startDate": "199510170000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0326",
+    "roadCode": "2043",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "TIDL. KELLEKLINTEVEJ 20-38, 27-33       ",
+    "timestamp": "200612221200",
+    "startDate": "199307010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0326",
+    "roadCode": "2044",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "TIDL. MOSEVEJ 1, 2-6                    ",
+    "timestamp": "200612221200",
+    "startDate": "199307010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0326",
+    "roadCode": "2131",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Sti fra Sandbjergvej til Gl Sor\uFFFDvej     ",
+    "timestamp": "201608191132",
+    "startDate": "190001010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0329",
+    "roadCode": "4114",
+    "populationRegisterNote": "05",
+    "populationRegisterLine": "Kaserne Parkvej kode 4114 iflg. TF      ",
+    "timestamp": "200601031412",
+    "startDate": "200601010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0329",
+    "roadCode": "4114",
+    "populationRegisterNote": "04",
+    "populationRegisterLine": "Sct J\uFFFDrgens Alle skifter navn til       ",
+    "timestamp": "200601031412",
+    "startDate": "200601010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0329",
+    "roadCode": "4560",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "iflg. L.Bredal, Teknisk Forvaltning     ",
+    "timestamp": "200702151736",
+    "startDate": "200702150000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0329",
+    "roadCode": "4560",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Vej\uFFFDndring fra K\uFFFDrehave til K\uFFFDrehavevej ",
+    "timestamp": "200702151736",
+    "startDate": "200702150000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0329",
+    "roadCode": "6840",
+    "populationRegisterNote": "04",
+    "populationRegisterLine": "Vej skifter navn til Kaserne Parkvej    ",
+    "timestamp": "200601031410",
+    "startDate": "200601010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0330",
+    "roadCode": "0047",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Hed tidl. Plutovej                      ",
+    "timestamp": "200612221200",
+    "startDate": "200403230000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0340",
+    "roadCode": "0441",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Lers\uFFFDparken 13-23 \uFFFDndres til            ",
+    "timestamp": "200612221200",
+    "startDate": "200506010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0340",
+    "roadCode": "0441",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "Parallelvej 8-18                        ",
+    "timestamp": "200612221200",
+    "startDate": "200506010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0350",
+    "roadCode": "9901",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Retur til afsender                      ",
+    "timestamp": "200702070847",
+    "startDate": "200701010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0360",
+    "roadCode": "0314",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "vejkode oprettet til Teknisk forvaltning",
+    "timestamp": "200612221200",
+    "startDate": "199709230000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0360",
+    "roadCode": "1620",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "vejkode oprettet til Teknisk forvaltning",
+    "timestamp": "200612221200",
+    "startDate": "199709230000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0370",
+    "roadCode": "0437",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "slettet, ej vejnavn                     ",
+    "timestamp": "200903311304",
+    "startDate": "200903310000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0370",
+    "roadCode": "0467",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "slettet, ej anvendt                     ",
+    "timestamp": "200903311305",
+    "startDate": "200903310000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0370",
+    "roadCode": "0494",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "slettet, ej vejnavn                     ",
+    "timestamp": "200903311307",
+    "startDate": "200903310000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0370",
+    "roadCode": "0607",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "slettet, ej anvendt                     ",
+    "timestamp": "200903311308",
+    "startDate": "200903310000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0370",
+    "roadCode": "0706",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "slettet, ej anvendt                     ",
+    "timestamp": "200903311309",
+    "startDate": "200903310000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0370",
+    "roadCode": "0712",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "slettet, ej anvendt                     ",
+    "timestamp": "200903311311",
+    "startDate": "200903310000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0370",
+    "roadCode": "0890",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "slettet, ej vejnavn                     ",
+    "timestamp": "200903311316",
+    "startDate": "200903310000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0370",
+    "roadCode": "0951",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "slettet, FAS Faxe Kommune               ",
+    "timestamp": "200903311317",
+    "startDate": "200903310000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0370",
+    "roadCode": "1000",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "slettet, ej anvendt                     ",
+    "timestamp": "200903311314",
+    "startDate": "200903310000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0370",
+    "roadCode": "1101",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "slettet, ej anvendt                     ",
+    "timestamp": "200903311318",
+    "startDate": "200903310000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0370",
+    "roadCode": "1291",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "slettet, ej anvendt                     ",
+    "timestamp": "200903311320",
+    "startDate": "200903310000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0370",
+    "roadCode": "1293",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "slettet, FAS Faxe Kommune               ",
+    "timestamp": "200903311321",
+    "startDate": "200903310000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0370",
+    "roadCode": "1419",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "slettet, FAS Vordingborg Kommune        ",
+    "timestamp": "200903311322",
+    "startDate": "200903310000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0370",
+    "roadCode": "1550",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "slettet, FAS Vordingborg Kommune        ",
+    "timestamp": "200903311324",
+    "startDate": "200903310000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0370",
+    "roadCode": "1558",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "slettet, ej vejnavn                     ",
+    "timestamp": "200903311326",
+    "startDate": "200903310000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0370",
+    "roadCode": "1640",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "slettet, FAS Faxe Kommune               ",
+    "timestamp": "200903311327",
+    "startDate": "200903310000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0370",
+    "roadCode": "1764",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "slettet, ej anvendt                     ",
+    "timestamp": "200903311222",
+    "startDate": "200903310000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0370",
+    "roadCode": "1826",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "slettet, ej anvendt                     ",
+    "timestamp": "200903311342",
+    "startDate": "200903310000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0376",
+    "roadCode": "2078",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Rasteplads                              ",
+    "timestamp": "201010081205",
+    "startDate": "201010080000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0376",
+    "roadCode": "2079",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Vejen er ubeboet                        ",
+    "timestamp": "200612221200",
+    "startDate": "199707170000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0400",
+    "roadCode": "2603",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "vejnavnet er Margrethe II s vej         ",
+    "timestamp": "201205211048",
+    "startDate": "201205210000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0420",
+    "roadCode": "0753",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "TIDL. KODE 5260 MOTORVEJEN              ",
+    "timestamp": "200612221200",
+    "startDate": "199508300000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0420",
+    "roadCode": "1796",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "ODENSES NR 51 115-119 149 60 220-228    ",
+    "timestamp": "200612221200",
+    "startDate": "199601230000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0420",
+    "roadCode": "2501",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "sogn \uFFFDndr til Skydebjerg                ",
+    "timestamp": "200709121222",
+    "startDate": "200709120000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0420",
+    "roadCode": "2502",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "sogn \uFFFDndret til Skydebjerg              ",
+    "timestamp": "200709121222",
+    "startDate": "200709120000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0420",
+    "roadCode": "2503",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "sogn \uFFFDndr til Skydebjerg                ",
+    "timestamp": "200709121223",
+    "startDate": "200709120000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0479",
+    "roadCode": "4080",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "1A-1B er naturgaspligtige               ",
+    "timestamp": "199805141331",
+    "startDate": "199805140000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0479",
+    "roadCode": "9383",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "husnr 2A-8a er naturgasoligtige         ",
+    "timestamp": "199805141330",
+    "startDate": "199804140000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0479",
+    "roadCode": "9383",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "husnr 45-81 er naturgaspligtige         ",
+    "timestamp": "199805141330",
+    "startDate": "199804140000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0510",
+    "roadCode": "0713",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "\uFFFDndret iflg. aftale med T\u0026M.(D.K.Jensen)",
+    "timestamp": "200801031148",
+    "startDate": "200801030000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0510",
+    "roadCode": "0713",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Vejen aldrig etableret i \uFFFDsby           ",
+    "timestamp": "200801031148",
+    "startDate": "200801030000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0530",
+    "roadCode": "0185",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "vejen er f\uFFFDrst oprettet 25/8 1995       ",
+    "timestamp": "200612221200",
+    "startDate": "200106260000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0575",
+    "roadCode": "5080",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Tidligere Industrivej Nord              ",
+    "timestamp": "199810131213",
+    "startDate": "199810130000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0607",
+    "roadCode": "9962",
+    "populationRegisterNote": "03",
+    "populationRegisterLine": "af 29.04.2015                           ",
+    "timestamp": "201505041409",
+    "startDate": "201505010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0607",
+    "roadCode": "9962",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "lagt sk\uFFFDrpet tavshedspligt - lov 545    ",
+    "timestamp": "201505041409",
+    "startDate": "201505010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0607",
+    "roadCode": "9962",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Registreringer p\uFFFD denne vejkode er under",
+    "timestamp": "201505041409",
+    "startDate": "201505010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0630",
+    "roadCode": "0161",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "122,124,130 \uFFFDnd.t.Kastanievej53,55,51   ",
+    "timestamp": "200612221200",
+    "startDate": "200205230000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0630",
+    "roadCode": "0785",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "Nr. 52 \uFFFDndret til \uFFFDstvej 1A             ",
+    "timestamp": "200612221200",
+    "startDate": "200205230000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0630",
+    "roadCode": "0785",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Nr.1 og 3 \uFFFDndret til Kastanievej 4 og 2 ",
+    "timestamp": "200612221200",
+    "startDate": "200205230000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0630",
+    "roadCode": "1672",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Nr. 3 \uFFFDndret til Kastanievej 11         ",
+    "timestamp": "200612221200",
+    "startDate": "200205230000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "0040",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Fra Ved \uFFFDen til Danavej                 ",
+    "timestamp": "200409211511",
+    "startDate": "200409210000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "0076",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Fra Snerlevej Kl\uFFFDvermarken              ",
+    "timestamp": "200409220957",
+    "startDate": "200409220000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "0312",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "fra Sdr. All\uFFFD til Niels Kjeldsens Vej   ",
+    "timestamp": "200409211307",
+    "startDate": "200409210000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "0331",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Fra Klostervej gennem Bannestrupparken  ",
+    "timestamp": "200409221030",
+    "startDate": "200409220000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "0385",
+    "populationRegisterNote": "09",
+    "populationRegisterLine": "Lange-M\uFFFDllers Vej                       ",
+    "timestamp": "200409211543",
+    "startDate": "200409210000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "0385",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Fra Sortestien mellem Kuhlausvej og     ",
+    "timestamp": "200409211543",
+    "startDate": "200409210000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "0387",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Fra Sysselting til Sct. J\uFFFDrgens Bakke   ",
+    "timestamp": "200409221035",
+    "startDate": "200409220000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "0393",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Fra Viborgvej mod syd til Agerb\uFFFDkvej    ",
+    "timestamp": "200409211359",
+    "startDate": "200409210000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "0610",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Fra Ringk\uFFFDbingvej mod NV til golfbanen  ",
+    "timestamp": "200409211617",
+    "startDate": "200409210000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "1790",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Fra Thorsh\uFFFDj Plejeh. til M\uFFFDbjerg Kirkev.",
+    "timestamp": "200409211538",
+    "startDate": "200409210000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "1825",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Fra Sortestien til Skjoldg\uFFFDrden         ",
+    "timestamp": "200409220934",
+    "startDate": "200409220000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "1915",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Fra Slotsgade til Kielgasten            ",
+    "timestamp": "200409220946",
+    "startDate": "200409220000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "2016",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Fra Lyngbakken til Ringvejen            ",
+    "timestamp": "200409211407",
+    "startDate": "200409210000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "2050",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Fra Gl R\uFFFDstedvej til Treh\uFFFDje skel       ",
+    "timestamp": "200409211619",
+    "startDate": "200409210000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "2306",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Fra Kirkestien til Birkelundstien       ",
+    "timestamp": "200409220858",
+    "startDate": "200409220000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "2583",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Fra Snerlevejstien til Hornsh\uFFFDjparken   ",
+    "timestamp": "200409221049",
+    "startDate": "200409220000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "2640",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Fra S for Sognstrupvej til matr.nr.15dl ",
+    "timestamp": "200409221009",
+    "startDate": "200409220000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "2731",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Fra L\uFFFDg\uFFFDrdvej til Lystanl\uFFFDgget          ",
+    "timestamp": "200409211411",
+    "startDate": "200409210000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "3060",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Fra N\uFFFDrrebrogade til N\uFFFDrrelandsskolen   ",
+    "timestamp": "200409211621",
+    "startDate": "200409210000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "3210",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Fra Sortestien til Ravelstien           ",
+    "timestamp": "200409220842",
+    "startDate": "200409220000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "3215",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Fra Vesterbrogade til \uFFFDglimt            ",
+    "timestamp": "200409211418",
+    "startDate": "200409210000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "3415",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Fra Krunderupparken til Langemettevej   ",
+    "timestamp": "200409221051",
+    "startDate": "200409220000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "3589",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Fra Sveavej over Stor\uFFFDen til Revlingvej ",
+    "timestamp": "200409211421",
+    "startDate": "200409210000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "3635",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Fra Lavhedevej til Nyholmvej            ",
+    "timestamp": "200409211556",
+    "startDate": "200409210000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "4058",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Fra Dalgasvej til Herningvej            ",
+    "timestamp": "200409211424",
+    "startDate": "200409210000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "4070",
+    "populationRegisterNote": "09",
+    "populationRegisterLine": "Fra Lystlundvej til skel ved Hedehus    ",
+    "timestamp": "200409211612",
+    "startDate": "200409210000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "4125",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Fra Skolestien til Gartnerivej          ",
+    "timestamp": "200409211548",
+    "startDate": "200409210000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "4173",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Fra Skolestien til Fr\uFFFDjk B\uFFFDk-Stien      ",
+    "timestamp": "200409220943",
+    "startDate": "200409220000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "4175",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Fra Egevej til Sl\uFFFDenvej-V Halg\uFFFDrdvej    ",
+    "timestamp": "200409220939",
+    "startDate": "200409220000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "4237",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Fra Mejrup Kirkevej til Kobberupvej     ",
+    "timestamp": "200409221024",
+    "startDate": "200409220000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "4255",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Fra Elkj\uFFFDrvej til Mejrup Skolevej       ",
+    "timestamp": "200409220824",
+    "startDate": "200409220000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "4450",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Fra H\uFFFDndelsvej-Leharsvej til Kirkestien ",
+    "timestamp": "200409220839",
+    "startDate": "200409220000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "4850",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Fra Vesterled til Skolestien            ",
+    "timestamp": "200409211611",
+    "startDate": "200409210000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "5362",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Fra Herningvej til Nybovej              ",
+    "timestamp": "200409211426",
+    "startDate": "200409210000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "5718",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Fra Offenbachsvej til Mozartsvej        ",
+    "timestamp": "200409220835",
+    "startDate": "200409220000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "5835",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Fra Skolestien til T\uFFFDrnstien            ",
+    "timestamp": "200409211429",
+    "startDate": "200409210000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "5842",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Fra Poppel All\uFFFD til Parkvej             ",
+    "timestamp": "200409211601",
+    "startDate": "200409210000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "5958",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Fra Tvillngeh\uFFFDjestien til Birkelundstien",
+    "timestamp": "200409220855",
+    "startDate": "200409220000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "6115",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Fra Biblioteket til Nellikestr\uFFFDde       ",
+    "timestamp": "200409221038",
+    "startDate": "200409220000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "6600",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Fra Idr\uFFFDtsvej til Skolevej              ",
+    "timestamp": "200409221004",
+    "startDate": "200409220000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "6603",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Fra Fr\uFFFDjk M\uFFFDllevej til Anna Anchers Vej ",
+    "timestamp": "200409211526",
+    "startDate": "200409210000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "6609",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Fra Skoletrappen til Jeppe Schous Gade  ",
+    "timestamp": "200409211435",
+    "startDate": "200409210000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "6819",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Fra Svinget til Herningvej              ",
+    "timestamp": "200409211436",
+    "startDate": "200409210000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "6852",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Fra Kirkepladsen til N\uFFFDrregade          ",
+    "timestamp": "200409211500",
+    "startDate": "200409210000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "6860",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Fra Snerlevej til Hornsh\uFFFDjstien         ",
+    "timestamp": "200409211558",
+    "startDate": "200409210000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "6958",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Fra Sysselting til Oluf Rings Vej       ",
+    "timestamp": "200409211533",
+    "startDate": "200409210000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "7210",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Fra Engvej til Skolestien               ",
+    "timestamp": "200409211604",
+    "startDate": "200409210000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "7220",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Fra Birkelundstien til Straussvej       ",
+    "timestamp": "200409221041",
+    "startDate": "200409220000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "7305",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Fra Skolestien til Gartnerivej          ",
+    "timestamp": "200409211550",
+    "startDate": "200409210000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "7535",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Fra Stenumvej mod S\uFFFD gn Theuts plantage ",
+    "timestamp": "200409211615",
+    "startDate": "200409210000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "7681",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Fra M\uFFFDgevej til L\uFFFDrkevej                ",
+    "timestamp": "200409211504",
+    "startDate": "200409210000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "7687",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Fra Sortestien til Offenbachstien       ",
+    "timestamp": "200409220832",
+    "startDate": "200409220000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "7722",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Fra D\uFFFDesvej til N\uFFFDrrebrogade            ",
+    "timestamp": "200409211506",
+    "startDate": "200409210000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "8468",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Fra Straussvej til Wagnersvej           ",
+    "timestamp": "200409221055",
+    "startDate": "200409220000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "8469",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Fra wagnerstien til Tvillingeh\uFFFDjeparken ",
+    "timestamp": "200409221057",
+    "startDate": "200409220000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0661",
+    "roadCode": "8692",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Fra Sveavej til Granbakken              ",
+    "timestamp": "200409211508",
+    "startDate": "200409210000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0671",
+    "roadCode": "0226",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "oprettet                                ",
+    "timestamp": "200612221200",
+    "startDate": "200412310000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0671",
+    "roadCode": "0950",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "HUSNR.4 0G 8 LIGGER I LEMVIG KOMMUNE    ",
+    "timestamp": "199506201040",
+    "startDate": "199506200000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0671",
+    "roadCode": "2850",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "STARTER I ULFBORG-VEMB                  ",
+    "timestamp": "199506131423",
+    "startDate": "199506130000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0671",
+    "roadCode": "4640",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "FRA HOLSTEBRO OG VIDERE I ULFBORG-VEMB  ",
+    "timestamp": "199506131340",
+    "startDate": "199506130000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0707",
+    "roadCode": "0456",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "husnr 37A er \uFFFDndret til Provstegyden 1  ",
+    "timestamp": "200612221200",
+    "startDate": "200310220000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0707",
+    "roadCode": "0488",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "\uFFFDrhusvej 18/20 \uFFFDndres t/Industrivej 6A/B",
+    "timestamp": "200612221200",
+    "startDate": "200111040000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0707",
+    "roadCode": "0630",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "husnr. 10-22 og 30-32                   ",
+    "timestamp": "200612221200",
+    "startDate": "200302040000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0707",
+    "roadCode": "0630",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "teknisk \uFFFDndring af husnr. 2-4 til       ",
+    "timestamp": "200612221200",
+    "startDate": "200302040000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0707",
+    "roadCode": "0816",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "adressen er \uFFFDndret fra Hovedgaden 37A   ",
+    "timestamp": "200612221200",
+    "startDate": "200310220000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0707",
+    "roadCode": "1327",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "\uFFFDrhusvej 18/20 \uFFFDndres t/Industrivej6A/B ",
+    "timestamp": "200612221200",
+    "startDate": "200111040000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0710",
+    "roadCode": "0044",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Vejkode 0044 nedlagt iflg Byg og Plan710",
+    "timestamp": "201703211415",
+    "startDate": "201703210000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0710",
+    "roadCode": "0392",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "TIDL.STAVET HAGSHOLMVEJ                 ",
+    "timestamp": "200612221200",
+    "startDate": "199506060000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0710",
+    "roadCode": "9983",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "indl.p\uFFFD hospital m.v.,i.h.t.prf.14 stk 1",
+    "timestamp": "200612221200",
+    "startDate": "199709220000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0710",
+    "roadCode": "9983",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "anbragt i en af kriminalforsorgens anst ",
+    "timestamp": "200612221200",
+    "startDate": "199709220000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0730",
+    "roadCode": "2459",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "husnr 7 - valgdist korr fra 05 til 04   ",
+    "timestamp": "200612221200",
+    "startDate": "200111200000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0730",
+    "roadCode": "2459",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "husnr 7- dist. Valg fra 04 til 03       ",
+    "timestamp": "200612221200",
+    "startDate": "200609220000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0730",
+    "roadCode": "2459",
+    "populationRegisterNote": "03",
+    "populationRegisterLine": "husnr 7 - dist. skole fra 01 til 02     ",
+    "timestamp": "200612221200",
+    "startDate": "200609220000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0730",
+    "roadCode": "2459",
+    "populationRegisterNote": "04",
+    "populationRegisterLine": "husnr 7 - dist. social fra 01 til 02    ",
+    "timestamp": "200612221200",
+    "startDate": "200609220000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0730",
+    "roadCode": "2459",
+    "populationRegisterNote": "05",
+    "populationRegisterLine": "husnr 7 - dist. bef.prog fra 03 til 08  ",
+    "timestamp": "200612221200",
+    "startDate": "200609220000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0730",
+    "roadCode": "2459",
+    "populationRegisterNote": "06",
+    "populationRegisterLine": "husnr 7 - dist. varme fra 2004 til 2001 ",
+    "timestamp": "200612221200",
+    "startDate": "200609220000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0730",
+    "roadCode": "2459",
+    "populationRegisterNote": "07",
+    "populationRegisterLine": "husnr 7 - div.dist fra 1271 til 1241    ",
+    "timestamp": "200612221200",
+    "startDate": "200609220000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0746",
+    "roadCode": "0115",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Borumvej \uFFFDndret til Skivholmevej        ",
+    "timestamp": "200810291406",
+    "startDate": "200810290000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0751",
+    "roadCode": "0171",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "NR. 1 - 99 OG NR. 2 - 100 ROSENHOLM KM  ",
+    "timestamp": "199506161027",
+    "startDate": "199101250000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0751",
+    "roadCode": "0171",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "NR. 101 - 999 OG NR. 102 - 998 \uFFFDRHUS KM ",
+    "timestamp": "199506161027",
+    "startDate": "199101250000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0751",
+    "roadCode": "0731",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "NR.101 - 999 OG NR.102 - 998 \uFFFDRHUS KOMM ",
+    "timestamp": "199506161236",
+    "startDate": "199101250000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0751",
+    "roadCode": "0731",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "NR.1 -99 OG NR.2 - 100 H\uFFFDRNING KOMMUNE  ",
+    "timestamp": "199506161236",
+    "startDate": "199101250000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0751",
+    "roadCode": "0905",
+    "populationRegisterNote": "03",
+    "populationRegisterLine": "AFVENTER ENDELIGE LOKALPLANER FOR OMR\uFFFD- ",
+    "timestamp": "199506151317",
+    "startDate": "199105030000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0751",
+    "roadCode": "0905",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "ENDELIG OPDELING P\uFFFD ULIGE SIDE ER NU OK ",
+    "timestamp": "199506151317",
+    "startDate": "199105030000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0751",
+    "roadCode": "0905",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "OPDELING P\uFFFD LIGE SIDE ER KUN FOREL\uFFFDBIG, ",
+    "timestamp": "199506151317",
+    "startDate": "199105030000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0751",
+    "roadCode": "0905",
+    "populationRegisterNote": "04",
+    "populationRegisterLine": "DET.- SE N\uFFFDRMERE P\uFFFD BILAG               ",
+    "timestamp": "199506151317",
+    "startDate": "199105030000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0751",
+    "roadCode": "0941",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "NR.1 - 31 OG NR.2 - 30 \uFFFDRHUS KOMMUNE    ",
+    "timestamp": "199506161241",
+    "startDate": "199101250000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0751",
+    "roadCode": "0941",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "NR.33 - 999 OG NR.32 - 998 HINNERUP KOM ",
+    "timestamp": "199506161241",
+    "startDate": "199101250000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0787",
+    "roadCode": "2245",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "VEJEN HED TIDLIGERE GRANTOFTVEJ         ",
+    "timestamp": "199603291355",
+    "startDate": "199603290000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0791",
+    "roadCode": "5482",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Oprindelig Sct Mathias Marked           ",
+    "timestamp": "200210101233",
+    "startDate": "200210100000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0810",
+    "roadCode": "1156",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "\uFFFDndret fra Horsev\uFFFDnget til Markeds Alle ",
+    "timestamp": "200612221200",
+    "startDate": "200401150000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0813",
+    "roadCode": "0855",
+    "populationRegisterNote": "09",
+    "populationRegisterLine": "berettet efter \uFFFDnske fra ejer - EL      ",
+    "timestamp": "200510171719",
+    "startDate": "200510170000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0813",
+    "roadCode": "0855",
+    "populationRegisterNote": "08",
+    "populationRegisterLine": "Lokalitet vedr. Br\uFFFDnderslevvej 25 er ind",
+    "timestamp": "200510171719",
+    "startDate": "200510170000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0813",
+    "roadCode": "2075",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Flade Engvej fra jernbaneover-rundk\uFFFDrsel",
+    "timestamp": "201503131105",
+    "startDate": "201503120000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0813",
+    "roadCode": "4750",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "valgdistrikt iflg Vangsted              ",
+    "timestamp": "200402171126",
+    "startDate": "200402170000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0813",
+    "roadCode": "5728",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "skoledistrikt iflg. Susanne Madsen      ",
+    "timestamp": "200402231036",
+    "startDate": "200402230000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0813",
+    "roadCode": "5801",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "husnr. 60 \uFFFDndret til Abildg\uFFFDrd sogn da  ",
+    "timestamp": "200501181124",
+    "startDate": "200501180000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0813",
+    "roadCode": "5801",
+    "populationRegisterNote": "03",
+    "populationRegisterLine": "iflg. opl. fra journal og Arkiv, tekn. f",
+    "timestamp": "200501181124",
+    "startDate": "200501180000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0813",
+    "roadCode": "5801",
+    "populationRegisterNote": "02",
+    "populationRegisterLine": "grund tidl. var adresseret Suderbovej 28",
+    "timestamp": "200501181124",
+    "startDate": "200501180000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0813",
+    "roadCode": "6725",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "valgdistrikt iflg Vangsted              ",
+    "timestamp": "200402171124",
+    "startDate": "200402170000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0813",
+    "roadCode": "7880",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Postnr. oplyst fra PostDanmark          ",
+    "timestamp": "200407051540",
+    "startDate": "200407050000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0813",
+    "roadCode": "7979",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "nr.13-ulovl beb. iflg. Tekn. Forvalt.CAA",
+    "timestamp": "200605051140",
+    "startDate": "200605050000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0813",
+    "roadCode": "8315",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "valgdistrikt iflg Vangsted              ",
+    "timestamp": "200402171123",
+    "startDate": "200402170000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0813",
+    "roadCode": "9432",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "valgdistrikt iflg. Vangsted             ",
+    "timestamp": "200402171122",
+    "startDate": "200402170000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0849",
+    "roadCode": "1828",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "VEJNAVN \uFFFDNDRET FRA ULLERUPVEJ           ",
+    "timestamp": "200612221200",
+    "startDate": "199601150000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0955",
+    "roadCode": "0146",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "vej navn\uFFFDndring                         ",
+    "timestamp": "200901031200",
+    "startDate": "200702200000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0955",
+    "roadCode": "0156",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "vejnavn opdateret iflg. den gamlebetegne",
+    "timestamp": "200901031200",
+    "startDate": "200312040000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0955",
+    "roadCode": "0225",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Sivinganikasia                          ",
+    "timestamp": "201004061419",
+    "startDate": "201001150000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0955",
+    "roadCode": "0226",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Qummut                                  ",
+    "timestamp": "201004121408",
+    "startDate": "190001010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0955",
+    "roadCode": "0227",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Tuia                                    ",
+    "timestamp": "201004121408",
+    "startDate": "190001010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0955",
+    "roadCode": "0228",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "Iliviteqqat                             ",
+    "timestamp": "201004121409",
+    "startDate": "190001010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0960",
+    "roadCode": "0137",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "\uFFFDndret til Kangilineq                   ",
+    "timestamp": "201801011200",
+    "startDate": "198601010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0960",
+    "roadCode": "0361",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "\uFFFDndret til Konrad Chemnitzip aqq.       ",
+    "timestamp": "201801011200",
+    "startDate": "198601010000"
+  },
+  {
+    "type": "005",
+    "kommuneCode": "0960",
+    "roadCode": "0364",
+    "populationRegisterNote": "01",
+    "populationRegisterLine": "\uFFFDndret til Alanngukasiup Qaava          ",
+    "timestamp": "201801011200",
+    "startDate": "198601010000"
+  }
+]

@@ -11,7 +11,7 @@ namespace John_Høeg_opgave_4._1.Controllers
         [HttpGet]
         public SearchKommuneKodeAndVejKode Get(string value)
         {
-            SearchKommuneKodeAndVejKode result = new(value);
+            SearchKommuneKodeAndVejKode result = new();
             return result;
         }
     }

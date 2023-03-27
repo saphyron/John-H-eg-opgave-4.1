@@ -2,6 +2,11 @@
 {
     public class SearchKommuneKodeAndVejKode
     {
+        public SearchKommuneKodeAndVejKode()
+        {
+            
+        }
+
         public string type { get; set; }
         public string kommuneCode { get; set; }
         public string roadCode { get; set; }
@@ -14,10 +19,6 @@
         public string roadName { get; set; }
         public string ExpandedRoadName { get; set; }
 
-
-        public SearchKommuneKodeAndVejKode(string s)
-        {
-            
-        }
+        
     }
 }

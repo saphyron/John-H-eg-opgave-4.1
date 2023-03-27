@@ -1,0 +1,24 @@
+[
+  {
+    "type": "012",
+    "kommuneCode": "0955",
+    "roadCode": "0008",
+    "houseNumberFrom": "    ",
+    "houseNumberTo": "998 ",
+    "evenUneven": "L",
+    "timestamp": "200901031200",
+    "socialCode": "02",
+    "districtText": "                              "
+  },
+  {
+    "type": "012",
+    "kommuneCode": "0955",
+    "roadCode": "0008",
+    "houseNumberFrom": "001 ",
+    "houseNumberTo": "999 ",
+    "evenUneven": "U",
+    "timestamp": "200901031200",
+    "socialCode": "02",
+    "districtText": "                              "
+  }
+]
