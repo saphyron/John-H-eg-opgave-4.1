@@ -17,6 +17,10 @@ namespace John_Høeg_opgave_4._1.Controllers
             var jsonFilePath = "C:\\Users\\Saphy\\OneDrive\\Softwareudvikling\\SystemIntegration\\John Høeg opgave 4.1\\class001File.json";
             var jsonString = System.IO.File.ReadAllText(jsonFilePath);
             var jsonList = JsonConvert.DeserializeObject<List<SearchAllRoadNames>>(jsonString);
+            foreach (var item in jsonList)
+            {
+                item.roadName = item.roadName.Trim();
+            }
             // Filter the list based on the specified type and road name filter
             string roadNameFilter = value;
             var filteredList = jsonList.Where(x => x.roadName.StartsWith(roadNameFilter)).Select(x => x.roadName).ToList();
